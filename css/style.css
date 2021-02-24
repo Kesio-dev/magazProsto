@@ -227,3 +227,12 @@ footer{
 .green:hover {
 	background-color: #4AB948;
 }
+
+.btn-tech {
+	margin-top: 5vh;
+	background-color: #656363;
+}
+
+.btn-tech:hover {
+	background-color: #4F4F4F;
+}
